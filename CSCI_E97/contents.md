@@ -47,4 +47,5 @@
   - [4.1.3 basic example](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.1.3.md)
   - [4.1.4 communication between services](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.1.4.md)
   - [4.1.5 choreography](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.1.5.md)
+  - [4.1.6 orchestration](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.1.6.md)
   - [Summary]
