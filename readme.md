@@ -32,7 +32,7 @@ https://courses.dce.harvard.edu/?action=explore-program&program=grad%7Cgrad-comp
 ## Software engineering
 
 - CSCI E-34 User Experience Engineering 1 of 1
-- CSCI E-97 Software Design: Principles, Models, and Patterns 1 of 1
+- [CSCI E-97 Software Design: Principles, Models, and Patterns 1 of 1](https://github.com/xtraVanilla/ivyleaguecompsci/tree/main/CSCI_E97)
 - DGMD E-1 Digital Media: From Ideas to Designs and Prototypes 2 of 2
 - DGMD E-11 Digital Media: From Prototypes to Products and Services 1 of 1
 
