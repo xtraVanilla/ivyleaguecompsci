@@ -87,3 +87,20 @@ export class OrderSaga {
   }
 }
 ```
+
+```
+// src/main.ts
+
+import { OrderController } from './order.controller';
+import { OrderService } from './order.service';
+import { OrderSaga } from './order.saga';
+
+const orderSaga = new OrderSaga();
+const orderService = new OrderService(orderSaga);
+const orderController = new OrderController(orderService);
+
+// Example: Call the createOrder method
+orderController.createOrder({ /* order details */ })
+  .then(result => console.log(result))
+  .catch(error => console.error(error));
+```
