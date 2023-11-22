@@ -1,5 +1,9 @@
 # Harvard Computer Science Master’s Degree Program
 
+# Course List
+
+https://courses.dce.harvard.edu/?action=explore-program&program=grad%7Cgrad-computer-science
+
 # Algorithms
 
 CSCI E-120 Introduction to Algorithms and their Limitations 1 of 1
