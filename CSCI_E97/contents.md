@@ -44,5 +44,5 @@
 - Chapter 4: Sagas
   - [4.1.1 what are sagas?](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.1.1.md)
   - [4.1.2 transactions](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.1.2.md)
-  - [4.1.3 the saga alass](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.1.3.md)
+  - [4.1.3 the saga class](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.1.3.md)
   - [Summary]
