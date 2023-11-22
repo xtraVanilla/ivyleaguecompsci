@@ -21,3 +21,69 @@ Distributed transactions involve coordinating and managing transactions that spa
 |-- package.json
 
 ```
+
+```
+// src/order.controller.ts
+
+import { OrderService } from './order.service';
+
+export class OrderController {
+  constructor(private readonly orderService: OrderService) {}
+
+  async createOrder(orderDetails: any): Promise<any> {
+    return this.orderService.createOrder(orderDetails);
+  }
+}
+```
+
+```
+// src/order.service.ts
+
+import { OrderSaga } from './order.saga';
+
+export class OrderService {
+  constructor(private readonly orderSaga: OrderSaga) {}
+
+  async createOrder(orderDetails: any): Promise<any> {
+    return this.orderSaga.handleOrderSaga(orderDetails);
+  }
+}
+```
+
+```
+// src/order.saga.ts
+
+export class OrderSaga {
+  async handleOrderSaga(orderDetails: any): Promise<any> {
+    try {
+      // Start the saga transaction
+      console.log('Saga: Start Transaction');
+
+      // Perform saga steps
+      this.publishOrderCreatedEvent(orderDetails);
+      this.callExternalService(orderDetails);
+
+      // End the saga transaction
+      console.log('Saga: End Transaction');
+
+      // Return the result of the saga
+      return { message: 'Order created successfully' };
+    } catch (error) {
+      // Handle errors or propagate them to the service
+      console.error('Saga: Transaction Failed');
+      throw error;
+    }
+  }
+
+  private publishOrderCreatedEvent(orderDetails: any): void {
+    // Publish an event indicating that the order has been created
+    // This event might be consumed by other microservices
+    console.log('Saga: Publish Order Created Event');
+  }
+
+  private callExternalService(orderDetails: any): void {
+    // Perform actions related to an external service
+    console.log('Saga: Call External Service');
+  }
+}
+```
