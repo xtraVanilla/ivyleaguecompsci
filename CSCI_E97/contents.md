@@ -41,6 +41,8 @@
     - [3.4.2 Eliminating Synchronous Interaction](#342-eliminating-synchronous-interaction)
   - [Summary](#summary-2)
 
-- [Chapter 4: Sagas](#chapter-4-managing-transactions-with-sagas)
-  - [4.1 The Saga Class](#41-transaction-management-in-a-microservice-architecture)
-  - [Summary](#summary-3)
+- [Chapter 4: Sagas]
+  - [4.1.1 what are sagas?](https://link-url-here.org)
+  - [4.1.2 transactions](https://link-url-here.org)
+  - [4.1.3 the saga alass](https://link-url-here.org)
+  - [Summary]
