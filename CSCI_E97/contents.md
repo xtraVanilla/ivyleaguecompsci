@@ -54,4 +54,5 @@
   - [4.2.0 pessimistic views](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.2.0.md)
   - [4.2.1 re-reading values and by-value strategies](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.2.1.md)
   - [4.2.2 anomalies](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.2.2.md)
+  - [4.2.3 anomaly mitigation](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.2.3.md)
   - [Summary]
