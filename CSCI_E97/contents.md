@@ -56,4 +56,7 @@
   - [4.2.2 anomalies](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.2.2.md)
   - [4.2.3 anomaly mitigation](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.2.3.md)
   - [4.2.4 idempotency](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.2.4.md)
+  - [4.2.5 quota cache](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.2.5.md)
+  - [4.2.6 eventual commit-sync service](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.2.6.md)
+  - [4.2.7 tracking and managing quotas](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.2.7.md)
   - [Summary]
