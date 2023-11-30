@@ -59,4 +59,5 @@
   - [4.2.5 quota cache](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.2.5.md)
   - [4.2.6 eventual commit-sync service](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.2.6.md)
   - [4.2.7 tracking and managing quotas](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.2.7.md)
+  - [4.2.8 message queue middleware](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.2.8.md)
   - [Summary]
