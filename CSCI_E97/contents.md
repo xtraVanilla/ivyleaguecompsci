@@ -42,6 +42,7 @@
   - [Summary](#summary-2)
 
 - Chapter 4: Sagas
+
   - [4.1.1 what are sagas?](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.1.1.md)
   - [4.1.2 transactions](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.1.2.md)
   - [4.1.3 basic example](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.1.3.md)
@@ -61,4 +62,4 @@
   - [4.2.7 tracking and managing quotas](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.2.7.md)
   - [4.2.8 message queue middleware](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.2.8.md)
   - [4.2.9 orchestrator module](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.2.9.md)
-  - [Summary]
+  - [4.3.0 summary](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.2.9.md)
