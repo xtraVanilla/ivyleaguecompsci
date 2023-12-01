@@ -14,18 +14,17 @@
 
 - [Chapter 3: Interprocess Communication in a Microservice Architecture]
 
-  - [3.1 Overview of Interprocess Communication in a Microservice Architecture](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.1.md)
-  - [3.2 Communicating Using the Synchronous Remote Procedure Invocation Pattern]https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.2.md
-    - [3.2.1 REST](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.2.1.md)
-    - [3.2.2 gRPC](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.2.2.md)
-    - [3.2.3 Handling Partial Failure Using the Circuit Breaker Pattern](<(https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.2.3.md)>)
-    - [3.2.4 Using Service Discovery](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.2.4.md)
-  - [3.3 Communicating Using the Asynchronous Messaging Pattern](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.3.md)
-    - [3.3.1 Overview of Messaging](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.3.1.md)
-    - [3.3.2 Implementing the Interaction Styles Using Messaging](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.3.2.md)
-    - [3.3.3 Creating an API Specification for a Messaging-Based Service API](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.3.3.md)
-    - [3.3.4 Using a Message Broker](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.3.4.md)
-    - [3.3.5 Libraries and Frameworks for Messaging](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.3.5.md)
+  - [3.1 Communicating Using the Synchronous Remote Procedure Invocation Pattern]
+    - [3.1.1 REST](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.1.1.md)
+    - [3.1.2 gRPC](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.1.2.md)
+    - [3.1.3 gRPC](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.1.3.md)
+    - [3.1.4 Handling Partial Failure Using the Circuit Breaker Pattern](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.1.4.md)
+    - [3.1.5 Using Service Discovery](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.1.5.md)
+  - [3.2 Communicating Using the Asynchronous Messaging Pattern](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.2.md)
+    - [3.2.1 Overview of Messaging](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.2.1.md)
+    - [3.2.2 Implementing the Interaction Styles Using Messaging](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.2.2.md)
+    - [3.2.4 Using a Message Broker](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.2.4.md)
+    - [3.2.5 Libraries and Frameworks for Messaging](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.2.5.md)
 
 - Chapter 4: Sagas
 
