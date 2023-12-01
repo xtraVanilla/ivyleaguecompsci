@@ -14,13 +14,13 @@
 
 - Chapter 3: Interprocess Communication in a Microservice Architecture
 
-  - [3.1 Communicating Using the Synchronous Remote Procedure Invocation Pattern]
+  - 3.1 Communicating Using the Synchronous Remote Procedure Invocation Pattern
     - [3.1.1 REST](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.1.1.md)
     - [3.1.2 GraphQL](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.1.2.md)
     - [3.1.3 gRPC](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.1.3.md)
     - [3.1.4 Handling Partial Failure Using the Circuit Breaker Pattern](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.1.4.md)
     - [3.1.5 Using Service Discovery](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.1.5.md)
-  - [3.2 Communicating Using the Asynchronous Messaging Pattern]
+  - 3.2 Communicating Using the Asynchronous Messaging Pattern
     - [3.2.1 Overview of Messaging](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.2.1.md)
     - [3.2.2 Implementing the Interaction Styles Using Messaging](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.2.2.md)
     - [3.2.3 Using a Message Broker](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.2.3.md)
@@ -54,4 +54,4 @@
 - Chapter 5: Business Logic Design Patterns
   - [5.1.1 aggregator pattern](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.md)
   - [5.1.2 example](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.2.md)
-  - [5.1.3 example](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.3.md)
+  - [5.1.3 domain event pattern](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.3.md)
