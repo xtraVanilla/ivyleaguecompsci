@@ -58,3 +58,4 @@
   - [5.1.4 use cases](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.4.md)
   - [5.1.5 domain model](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.5.md)
   - [5.1.6 example](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.6.md)
+  - [5.1.7 event sourcing](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.7.md)
