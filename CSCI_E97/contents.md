@@ -18,7 +18,7 @@
     - [3.1.1 REST](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.1.1.md)
     - [3.1.2 GraphQL](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.1.2.md)
     - [3.1.3 gRPC](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.1.3.md)
-    - [3.1.4 Handling Partial Failure Using the Circuit Breaker Pattern]
+    - [3.1.4 Handling Partial Failure Using the Circuit Breaker Pattern](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.1.4.md)
     - [3.1.5 Using Service Discovery]
   - [3.2 Communicating Using the Asynchronous Messaging Pattern]
     - [3.2.1 Overview of Messaging]
