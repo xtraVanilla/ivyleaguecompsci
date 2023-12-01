@@ -8,12 +8,11 @@
 
 - [Chapter 2: Decomposition Strategies]
 
-  - [2.1.1 Defining Services by Applying the Decompose by Business Capability Pattern](#222-defining-services-by-applying-the-decompose-by-business-capability-pattern)
+  - [2.1.1 decompose by business capability](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/2.1.1.md)
   - [2.1.2 Defining Services by Applying the Decompose by Sub-Domain Pattern](#223-defining-services-by-applying-the-decompose-by-sub-domain-pattern)
   - [2.1.3 Decomposition Guidelines](#224-decomposition-guidelines)
   - [2.1.4 Obstacles to Decomposing an Application into Services](#225-obstacles-to-decomposing-an-application-into-services)
   - [2.1.5 Defining Service APIs](#226-defining-service-apis)
-  - [Summary](#summary-1)
 
 - [Chapter 3: Interprocess Communication in a Microservice Architecture](#chapter-3-interprocess-communication-in-a-microservice-architecture)
 
