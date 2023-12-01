@@ -79,4 +79,9 @@
   - [8.1.3 service component test](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/8.1.3.md)
 
 - Chapter 9: Security Patterns
+
   - [9.1.1 access token](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/9.1.1.md)
+
+- Chapter 10: Cross-cutting Concerns Patterns
+  - [10.1.1 externalized configuration ](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/10.1.1.md)
+  - [10.1.2 microservice chassis](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/10.1.2.md)
