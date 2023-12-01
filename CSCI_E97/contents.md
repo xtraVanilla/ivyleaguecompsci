@@ -2,7 +2,9 @@
 
 - [Chapter 1: Monoliths]
 
-  - [1.1 Monoliths](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/1.1.md)
+  - [1.1.1 Monoliths](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/1.1.1.md)
+  - [1.1.2 Pool Architecture](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/1.1.2.md)
+  - [1.1.3 Example](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/1.1.3.md)
 
 - [Chapter 2: Decomposition Strategies]
 
