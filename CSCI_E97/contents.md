@@ -52,7 +52,8 @@
   - [4.3.2 use cases](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.3.2.md)
 
 - Chapter 5: Business Logic Design Patterns
-  - [5.1.1 aggregator pattern](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.md)
+
+  - [5.1.1 aggregator pattern](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.1.md)
   - [5.1.2 example](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.2.md)
   - [5.1.3 domain event pattern](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.3.md)
   - [5.1.4 use cases](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.4.md)
@@ -60,3 +61,6 @@
   - [5.1.6 example](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.6.md)
   - [5.1.7 event sourcing](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.7.md)
   - [5.1.8 transaction script](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.8.md)
+
+- Chapter 6: Query Patterns
+  - [6.1.1 api composition](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/6.1.1.md)
