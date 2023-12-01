@@ -73,6 +73,10 @@
   - [7.1.2 backends for frontends](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/7.1.2.md)
 
 - Chapter 8: Testing Patterns
+
   - [8.1.1 consumer-driven contract test](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/8.1.1.md)
   - [8.1.2 consumer-side contract test](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/8.1.2.md)
   - [8.1.3 service component test](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/8.1.3.md)
+
+- Chapter 9: Security Patterns
+  - [9.1.1 access token](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/9.1.1.md)
