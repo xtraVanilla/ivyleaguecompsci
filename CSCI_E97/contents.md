@@ -1,18 +1,18 @@
 # Table of Contents
 
-- [Chapter 1: Monoliths]
+- Chapter 1: Monoliths
 
   - [1.1 monoliths](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/1.1.md)
   - [1.2 pool architecture](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/1.2.md)
   - [1.3 load balancing](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/1.3.md)
   - [1.4 example](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/1.4.md)
 
-- [Chapter 2: Decomposition Strategies]
+- Chapter 2: Decomposition Strategies
 
   - [2.1 business capability pattern](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/2.1.md)
   - [2.2 sub-domain pattern](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/2.2.md)
 
-- [Chapter 3: Interprocess Communication in a Microservice Architecture]
+- Chapter 3: Interprocess Communication in a Microservice Architecture
 
   - [3.1 Communicating Using the Synchronous Remote Procedure Invocation Pattern]
     - [3.1.1 REST](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.1.1.md)
@@ -26,9 +26,9 @@
     - [3.2.3 Using a Message Broker](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.2.3.md)
     - [3.2.4 Libraries and Frameworks for Messaging](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.2.4.md)
 
-- Chapter 4: Sagas
+- Chapter 4: Data Consistency Patterns
 
-  - [4.1 what are sagas?](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.1.md)
+  - [4.1 sagas](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.1.md)
   - [4.1.1 transactions](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.1.1.md)
   - [4.1.2 basic example](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.1.2.md)
   - [4.1.3 communication between services](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.1.3.md)
@@ -50,3 +50,6 @@
   - [4.2.9 summary](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.2.9.md)
   - [4.3.0 example](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.3.0.md)
   - [4.3.1 use cases](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.3.1.md)
+
+- Chapter 5: Business Logic Design Patterns
+  - [5.1 aggregator pattern](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.md)
