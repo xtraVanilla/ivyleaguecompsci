@@ -83,5 +83,14 @@
   - [9.1.1 access token](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/9.1.1.md)
 
 - Chapter 10: Cross-cutting Concerns Patterns
-  - [10.1.1 externalized configuration ](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/10.1.1.md)
+
+  - [10.1.1 externalized configuration](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/10.1.1.md)
   - [10.1.2 microservice chassis](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/10.1.2.md)
+
+- Chapter 11 Observability Patterns:
+  - [11.1.1 application metrics](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/11.1.1.md)
+  - [11.1.2 audit logging](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/11.1.2.md)
+  - [11.1.3 distributed tracking](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/11.1.3.md)
+  - [11.1.4 exception tracking](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/11.1.4.md)
+  - [11.1.5 health check API](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/11.1.5.md)
+  - [11.1.6 log aggregation](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/11.1.6.md)
