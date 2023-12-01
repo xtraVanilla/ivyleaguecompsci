@@ -63,5 +63,10 @@
   - [5.1.8 transaction script](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.8.md)
 
 - Chapter 6: Query Patterns
+
   - [6.1.1 api composition](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/6.1.1.md)
   - [6.1.2 command query responsibility segregration](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/6.1.2.md)
+
+- Chapter 7: External API Patterns
+  - [7.1.1 api gateway](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/7.1.1.md)
+  - [7.1.2 backends for frontends](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/7.1.2.md)
