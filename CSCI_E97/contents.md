@@ -68,5 +68,11 @@
   - [6.1.2 command query responsibility segregration](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/6.1.2.md)
 
 - Chapter 7: External API Patterns
+
   - [7.1.1 api gateway](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/7.1.1.md)
   - [7.1.2 backends for frontends](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/7.1.2.md)
+
+- Chapter 8: Testing Patterns
+  - [8.1.1 consumer-driven contract test](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/8.1.1.md)
+  - [8.1.2 consumer-side contract test](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/8.1.2.md)
+  - [8.1.3 service component test](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/8.1.3.md)
