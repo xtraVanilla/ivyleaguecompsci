@@ -97,9 +97,14 @@
   - [11.1.6 log aggregation](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/11.1.6.md)
 
 - Chapter 12 Deployment Patterns:
+
   - [12.1.1 deploy a service as a container](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/12.1.1.md)
   - [12.1.2 deploy a service as a VM](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/12.1.2.md)
   - [12.1.3 language-specific packaging format](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/12.1.3.md)
   - [12.1.4 service mesh](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/12.1.4.md)
   - [12.1.5 serverless deployment](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/12.1.5.md)
   - [12.1.6 sidecar](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/12.1.6.md)
+
+- Chapter 13 Refactoring to Microservices Patterns:
+  - [13.1.1 anti-corruption layer](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/13.1.1.md)
+  - [13.1.2 strangler application](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/13.1.2.md)
