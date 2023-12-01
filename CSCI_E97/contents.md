@@ -64,3 +64,4 @@
   - [4.2.9 orchestrator module](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.2.9.md)
   - [4.3.0 summary](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.3.0.md)
   - [4.3.1 example](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.3.1.md)
+  - [4.3.2 use cases](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.3.2.md)
