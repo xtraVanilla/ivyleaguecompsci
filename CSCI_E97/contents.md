@@ -28,7 +28,7 @@
 
 - Chapter 4: Data Consistency Patterns
 
-  - [4.1 sagas](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.1.md)
+  - [4.1.1 sagas](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.1.1.md)
   - [4.1.1 transactions](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.1.1.md)
   - [4.1.2 basic example](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.1.2.md)
   - [4.1.3 communication between services](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.1.3.md)
@@ -52,4 +52,5 @@
   - [4.3.1 use cases](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/4.3.1.md)
 
 - Chapter 5: Business Logic Design Patterns
-  - [5.1 aggregator pattern](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.md)
+  - [5.1.1 aggregator pattern](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.md)
+  - [5.1.2 example](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.1.md)
