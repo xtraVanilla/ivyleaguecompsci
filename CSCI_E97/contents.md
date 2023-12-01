@@ -64,3 +64,4 @@
 
 - Chapter 6: Query Patterns
   - [6.1.1 api composition](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/6.1.1.md)
+  - [6.1.2 command query responsibility segregration](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/6.1.2.md)
