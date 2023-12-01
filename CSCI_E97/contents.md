@@ -56,3 +56,5 @@
   - [5.1.2 example](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.2.md)
   - [5.1.3 domain event pattern](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.3.md)
   - [5.1.4 use cases](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.4.md)
+  - [5.1.5 domain model](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.5.md)
+  - [5.1.6 example](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/5.1.6.md)
