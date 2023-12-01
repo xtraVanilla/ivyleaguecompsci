@@ -21,10 +21,10 @@
     - [3.1.4 Handling Partial Failure Using the Circuit Breaker Pattern](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.1.4.md)
     - [3.1.5 Using Service Discovery](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.1.5.md)
   - [3.2 Communicating Using the Asynchronous Messaging Pattern]
-    - [3.2.1 Overview of Messaging]
+    - [3.2.1 Overview of Messaging](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.2.1.md)
     - [3.2.2 Implementing the Interaction Styles Using Messaging]
-    - [3.2.4 Using a Message Broker]
-    - [3.2.5 Libraries and Frameworks for Messaging]
+    - [3.2.3 Using a Message Broker]
+    - [3.2.4 Libraries and Frameworks for Messaging]
 
 - Chapter 4: Sagas
 
