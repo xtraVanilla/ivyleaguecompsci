@@ -88,9 +88,18 @@
   - [10.1.2 microservice chassis](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/10.1.2.md)
 
 - Chapter 11 Observability Patterns:
+
   - [11.1.1 application metrics](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/11.1.1.md)
   - [11.1.2 audit logging](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/11.1.2.md)
   - [11.1.3 distributed tracking](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/11.1.3.md)
   - [11.1.4 exception tracking](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/11.1.4.md)
   - [11.1.5 health check API](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/11.1.5.md)
   - [11.1.6 log aggregation](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/11.1.6.md)
+
+- Chapter 12 Deployment Patterns:
+  - [12.1.1 deploy a service as a container](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/12.1.1.md)
+  - [12.1.2 deploy a service as a VM](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/12.1.2.md)
+  - [12.1.3 language-specific packaging format](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/12.1.3.md)
+  - [12.1.4 service mesh](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/12.1.4.md)
+  - [12.1.5 serverless deployment](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/12.1.5.md)
+  - [12.1.6 sidecar](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/12.1.6.md)
