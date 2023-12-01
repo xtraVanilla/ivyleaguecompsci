@@ -1,12 +1,10 @@
 # Table of Contents
 
-- [Chapter 1: Monoliths](#chapter-1-monoliths)
+- [Chapter 1: Monoliths]
 
-  - [1.1 Monolith Hell](#11-the-slow-march-toward-monolithic-hell)
-    - [1.1.2 Monoliths as a Form of Modularity](#142-microservices-as-a-form-of-modularity)
-  - [Summary](#summary)
+  - [1.1 Monoliths](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/1.1.md)
 
-- [Chapter 2: Decomposition Strategies](#chapter-2-decomposition-strategies)
+- [Chapter 2: Decomposition Strategies]
 
   - [2.1.1 Defining Services by Applying the Decompose by Business Capability Pattern](#222-defining-services-by-applying-the-decompose-by-business-capability-pattern)
   - [2.1.2 Defining Services by Applying the Decompose by Sub-Domain Pattern](#223-defining-services-by-applying-the-decompose-by-sub-domain-pattern)
