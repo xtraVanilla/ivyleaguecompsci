@@ -8,8 +8,8 @@
 
 - [Chapter 2: Decomposition Strategies]
 
-  - [2.1.1 decompose by business capability](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/2.1.1.md)
-  - [2.1.2 decompose by sub-domain pattern](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/2.1.2.md)
+  - [2.1.1 business capability pattern](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/2.1.1.md)
+  - [2.1.2 sub-domain pattern](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/2.1.2.md)
 
 - [Chapter 3: Interprocess Communication in a Microservice Architecture](#chapter-3-interprocess-communication-in-a-microservice-architecture)
 
