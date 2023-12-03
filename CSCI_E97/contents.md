@@ -15,16 +15,32 @@
 - Chapter 3: Interprocess Communication in a Microservice Architecture
 
   - 3.1 Communicating Using the Synchronous Remote Procedure Invocation Pattern
+
     - [3.1.1 REST](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.1.1.md)
     - [3.1.2 GraphQL](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.1.2.md)
     - [3.1.3 gRPC](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.1.3.md)
     - [3.1.4 Handling Partial Failure Using the Circuit Breaker Pattern](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.1.4.md)
-    - [3.1.5 Using Service Discovery](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.1.5.md)
-  - 3.2 Communicating Using the Asynchronous Messaging Pattern
-    - [3.2.1 Overview of Messaging](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.2.1.md)
-    - [3.2.2 Implementing the Interaction Styles Using Messaging](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.2.2.md)
-    - [3.2.3 Using a Message Broker](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.2.3.md)
-    - [3.2.4 Libraries and Frameworks for Messaging](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.2.4.md)
+
+  - 3.2 Service Discovery Patterns
+
+    - [3.2.1 Using Service Discovery](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.2.1.md)
+    - [3.2.2 3rd Party Registration](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.2.2.md)
+    - [3.2.3 Client-side Discovery](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.2.3.md)
+    - [3.2.4 Self-registration](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.2.4.md)
+    - [3.2.5 Server-side Discovery](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.2.5.md)
+
+  - 3.3 Communicating Using the Asynchronous Messaging Pattern
+
+    - [3.3.1 Overview of Messaging](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.3.1.md)
+    - [3.3.2 Implementing the Interaction Styles Using Messaging](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.3.2.md)
+    - [3.3.3 Using a Message Broker](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.3.3.md)
+    - [3.3.4 Libraries and Frameworks for Messaging](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.3.4.md)
+
+  - 3.4 Transactional Messaging Patterns
+
+    - [3.4.1 Polling Publisher](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.4.1.md)
+    - [3.4.2 Transaction Log Tailing](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.4.2.md)
+    - [3.4.3 Transactional Outbox](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/3.4.3.md)
 
 - Chapter 4: Data Consistency Patterns
 
@@ -87,7 +103,7 @@
   - [10.1.1 externalized configuration](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/10.1.1.md)
   - [10.1.2 microservice chassis](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/10.1.2.md)
 
-- Chapter 11 Observability Patterns:
+- Chapter 11: Observability Patterns
 
   - [11.1.1 application metrics](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/11.1.1.md)
   - [11.1.2 audit logging](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/11.1.2.md)
@@ -96,7 +112,7 @@
   - [11.1.5 health check API](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/11.1.5.md)
   - [11.1.6 log aggregation](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/11.1.6.md)
 
-- Chapter 12 Deployment Patterns:
+- Chapter 12: Deployment Patterns
 
   - [12.1.1 deploy a service as a container](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/12.1.1.md)
   - [12.1.2 deploy a service as a VM](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/12.1.2.md)
@@ -105,6 +121,6 @@
   - [12.1.5 serverless deployment](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/12.1.5.md)
   - [12.1.6 sidecar](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/12.1.6.md)
 
-- Chapter 13 Refactoring to Microservices Patterns:
+- Chapter 13: Refactoring to Microservices Patterns
   - [13.1.1 anti-corruption layer](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/13.1.1.md)
   - [13.1.2 strangler application](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/13.1.2.md)
