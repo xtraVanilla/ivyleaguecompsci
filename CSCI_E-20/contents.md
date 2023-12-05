@@ -3,11 +3,11 @@
 
 1. [Logical Thinking](#logical-thinking)
    1.1 [Formal Logic](#formal-logic)
-   1.1.1 [Inquiry Problems](#inquiry-problems)
-   1.1.2 [Connectives and Propositions](#connectives-and-propositions)
-   1.1.3 [Truth Tables](#truth-tables)
-   1.1.4 [Logical Equivalences](#logical-equivalences)
-   Exercises 1.1
+   1.1.1 [Inquiry Problems](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/1.1.1.md)
+   1.1.2 [Connectives and Propositions](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/1.1.2.md)
+   1.1.3 [Truth Tables](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/1.1.3.md)
+   1.1.4 [Logical Equivalences](https://github.com/xtraVanilla/ivyleaguecompsci/blob/main/CSCI_E97/1.1.4.md)
+
    1.2 [Propositional Logic](#propositional-logic)
    1.2.1 [Tautologies and Contradictions](#tautologies-and-contradictions)
    1.2.2 [Derivation Rules](#derivation-rules)
