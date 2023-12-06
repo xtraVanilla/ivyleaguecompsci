@@ -14,6 +14,7 @@
    1.2.3 [Proof Sequences](#proof-sequences)
    1.2.4 [Forward–Backward](#forward–backward)
    Exercises 1.2
+
    1.3 [Predicate Logic](#predicate-logic)
    1.3.1 [Predicates](#predicates)
    1.3.2 [Quantifiers](#quantifiers)
